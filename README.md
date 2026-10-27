@@ -5,3 +5,7 @@ Final lab exam
 - Nickname: phuphu
 - Major: CS
 - Year: 1
+## My Learning Goals
+- get good
+- be better
+- never give up
