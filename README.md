@@ -1,3 +1,7 @@
 # github-Final
 Final lab exam
-gg
+# My Profile
+## About Me
+- Nickname: phuphu
+- Major: CS
+- Year: 1
